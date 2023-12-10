@@ -1,3 +1,3 @@
 # startup-of-the-year
-Starter project!
-*visist https://zerotomastery.io/ for more*
+MY WEBSITE
+https://kaustubhratwadkar.github.io/startup_page.github.io/
